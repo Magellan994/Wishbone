@@ -187,7 +187,7 @@ header nav ul li:last-of-type a{
 /*end of second section*/
 /*start of third section*/
 .R_H{
-background-image: url("/img/styileone.svg");
+background-image: url("img/styleone.jpg");
     min-height: 600px;
    background-size: cover;
     position: relative;
@@ -294,7 +294,7 @@ max-width: 1000px;
 /*end of fourth section*/
 /*start of fiveth section*/
 .T_M_S{
-    background-image: url("img/style2.svg");
+    background-image: url("img/styletwo.jpg");
     background-size: cover;
     position: relative;
     justify-content: flex-end;
@@ -401,7 +401,7 @@ margin-top: 40px;
 /*end of sixth section*/
 /*start of seventh section*/
 .T_S_S{
-    background-image: url("img/style3.svg");
+    background-image: url("img/laststyle.jpg");
     min-height: 600px;
     background-size: cover;
     position: relative;
